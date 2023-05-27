@@ -1,0 +1,326 @@
+body{
+    background: rgb(110,103,226);
+    background: linear-gradient(90deg, rgba(110,103,226,1) 0%, rgba(9,9,121,1) 51%, rgba(196,0,255,1) 100%);
+    margin: 0;
+    padding: 0;
+}
+.a1{
+    width: 800px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: top;
+    justify-content: top;
+}
+.a2{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.a3{
+    width: 800px;
+    height: 300px;
+    background-color: purple;
+    margin: auto;
+    display: flex;
+     
+}
+.a4{
+    width: 800px;
+    height: 308px;
+    background-color: white;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+   
+     justify-content: space-around 30px;
+}
+.a5{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    color:black;
+    margin-left: 460px;
+    margin-top: 50px;
+}
+.a6{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    margin-left: -290px;
+    margin-top: 218px;
+}
+.a7{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    margin-top: 218px;
+    margin-left: -170px;
+
+}
+
+.a8{
+    width: 800px;
+    height: 160px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+
+}
+.a9{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    margin: top;
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+ 
+ 
+}
+.a10{
+    width: 800px;
+    height: 600px;
+    background-color:white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around ;
+
+}
+.a11{
+    width: 185px;
+    height: 300px;
+    background-color: aqua;
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+.a12{
+    width: 185px;
+    height: 100px;
+    background-color: white;
+    margin-top: -250px;
+    margin-left: 600px;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+.a13{
+    width: 185px;
+    height: 100px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 760px;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+    
+}
+.a14{
+    width: 185px;
+    height: 100px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 1000px;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+.a15{
+    width: 185px;
+    height: 100px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 1140px;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+.a16{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.a17{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    margin-left: 650px;
+    margin-top: -60px;
+}
+.a18{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    margin-left: 750px;
+    margin-top: -60px;
+}
+.a19{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.a20{
+    width: 800px;
+    height: 160px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+}
+.a21{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    margin: top;
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.a22{
+    width: 800px;
+    height: 300px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+}  
+.a23{
+    width: 800px;
+    height: 320px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+} 
+.a24{
+    width: 240px;
+    height: 80px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 200px;
+
+}
+.a25{
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    margin-top: -200px;
+    margin-left: 500px;
+}
+.a26{
+    width: 240px;
+    height: 90px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left:-250px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+.a27{
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    margin-top: -90px;
+    margin-left: 60px;
+}
+
+.a28{
+    width: 800px;
+    height: 160px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+}
+.a29{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    margin: top;
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+
+}
+.a30{
+    width: 800px;
+    height: 708px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+}
+.a31{
+    width: 390px;
+    height: 260px;
+    background-color: white;
+    margin-top: -20px;
+    margin-left: 35px;
+}
+.a32{
+    width: 185px;
+    height: 90px;
+    background-color: white;
+    margin-top: -264px;
+    margin-left: 400px;
+    font-size: 30px;
+}
+.a33{
+    width: 595px;
+    height: 90px;
+    background-color: white;
+    margin-top: 300px;
+    margin-left: 170px;
+}
+.a34{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 0px;
+}
+.a35{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.a36{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    margin-top: -60px;
+    margin-left: 200px;
+}
+.a37{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    margin-top: -60px;
+    margin-left: 300px;
+}
+a{
+    color: white;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
